@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hello dear stranger visitor👋
 
-<!--
-**worldata/worldata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Max and I fell in love with coding. ♥️ During Covid I wrote my first line of code and can't stop⏳.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on classifying/labling food items using machine learning. 
+- 🌱 I’m currently learning and reading the book Practical Statistics for Data Scientists: 50 Essential Concepts
+- 👯 I’m looking to collaborate on ..
+- 🤔 I’m looking for help with gaining a new perspectiv. 
+- 📫 How to reach me: maxirasch@yahoo.de
+
+
+
+
+
+I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and working for a better world🌍!
