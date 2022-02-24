@@ -2,6 +2,8 @@
 
 I'm Max and I fell in love with coding. During Covid I wrote my first line of code and can't stop⏳.
 
+💼📊 Junior Manager SCM IT
+
 Mainly I work with Python following packages.
 * 🐼 Pandas 
 * Numpy
