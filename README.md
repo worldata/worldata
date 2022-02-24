@@ -13,9 +13,8 @@ Mainly I work with Python following packages.
 - 🤔 I’m always looking for help with gaining a new perspectiv. 
 - 📫 How to reach me: maxirasch@yahoo.de
 
-![image](www.linkedin.com/in/maximilian-rasch)
 
-
+     [![Linkedin](https://user-images.githubusercontent.com/95548513/155520766-6ff01fe6-12e4-4920-8d29-cab13ab17c99.svg)](https://www.linkedin.com/in/maximilian-rasch/)
 
 I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and working for a better world🌍!
 
