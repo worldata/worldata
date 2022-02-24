@@ -8,13 +8,13 @@ Mainly I work with Python following packages.
 * scikit-learn (SciPy)
 
 
+
 - 🔭 I’m currently working on classifying/labling food items using machine learning. 
 - 🌱 I’m currently learning and reading the book Practical Statistics for Data Scientists: 50 Essential Concepts.
 - 🤔 I’m always looking for help with gaining a new perspectiv. 
 - 📫 How to reach me: maxirasch@yahoo.de
 
-
-     [![Linkedin](https://user-images.githubusercontent.com/95548513/155520766-6ff01fe6-12e4-4920-8d29-cab13ab17c99.svg)](https://www.linkedin.com/in/maximilian-rasch/)
+     ![Neues Textdokument (2) - Kopie](https://user-images.githubusercontent.com/95548513/155558803-9a71805f-6199-4a64-98bd-443f0263c3b8.svg)
 
 I am looking forward to absorb 🧠knowledge,gain 🏭experience , 🤝collaborate and work for a 🌍better world!
 
