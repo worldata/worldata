@@ -17,7 +17,7 @@ Mainly I work with Python following packages.
      [![Neues Textdokument (2) - Kopie](https://user-images.githubusercontent.com/95548513/155560153-4ce778e5-53ca-4a17-9874-7216c2ceb43b.svg)](https://www.linkedin.com/in/maximilian-rasch/)
 
 
-I am looking forward to absorb 🧠knowledge,gain 🏭experience , 🤝collaborate and work for a 🌍better world!
+I am looking forward to absorb 🧠knowledge,gain 🏭experience , 🤝collaborate and work for a better 🌍world!
 
 I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 
 
