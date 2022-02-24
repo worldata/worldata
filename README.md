@@ -1,4 +1,4 @@
-### Hello dear stranger visitor👋
+### Hello dear visitor👋
 
 I'm Max and I fell in love with coding. During Covid I wrote my first line of code and can't stop⏳.
 
