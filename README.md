@@ -13,7 +13,7 @@ Mainly I work with Python following packages.
 - 🤔 I’m always looking for help with gaining a new perspectiv. 
 - 📫 How to reach me: maxirasch@yahoo.de
 
-![image](https://user-images.githubusercontent.com/95548513/155490063-0e2aa9eb-ddb6-44da-ac81-a3a9db24dbe9.jpeg)
+![image](www.linkedin.com/in/maximilian-rasch)
 
 
 
