@@ -9,6 +9,8 @@ Mainly I work with Python following packages.
 * Numpy
 * scikit-learn (SciPy)
 
+
+
 Toolkit:
 * Webscraping
 * Wrangling, Analysis & Visulization of Data
