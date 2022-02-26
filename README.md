@@ -8,6 +8,7 @@ Mainly I work with Python following packages.
 * 🐼 Pandas 
 * Numpy
 * scikit-learn (SciPy)
+* matplotlib and seaborn
 
 
 
