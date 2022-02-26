@@ -11,7 +11,7 @@ Mainly I work with Python following packages.
 * matplotlib and seaborn
 
 
-Toolkit:
+Skillset:
 - Webscraping
 - Wrangling, Analysis & Visulization of Data
 - Scripting 
