@@ -11,15 +11,14 @@ Mainly I work with Python following packages.
 * matplotlib and seaborn
 
 
-
 Toolkit:
-* Webscraping
-* Wrangling, Analysis & Visulization of Data
-* Scripting 
-* A/B Testing, ML Tools (various Regressionmethods, KKN, Random Forest)
+- Webscraping
+- Wrangling, Analysis & Visulization of Data
+- Scripting 
+- A/B Testing, ML Tools (various Regressionmethods, KKN, Random Forest)
 
-
-- 🔭 I’m currently working on classifying/labling food items using machine learning. 
+About me:
+- 🔭 I’m currently working on classifying/labeling food items using machine learning. 
 - 🌱 I’m currently learning and reading the book Practical Statistics for Data Scientists: 50 Essential Concepts.
 - 🤔 I’m always looking for help with gaining a new perspectiv. 
 - 📫 How to reach me: maxirasch@yahoo.de
