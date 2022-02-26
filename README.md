@@ -9,6 +9,11 @@ Mainly I work with Python following packages.
 * Numpy
 * scikit-learn (SciPy)
 
+Toolkit:
+* Webscraping
+* Wrangling, Analysis & Visulization of Data
+* Scripting 
+* A/B Testing, ML Tools (various Regressionmethods, KKN, Random Forest)
 
 
 - 🔭 I’m currently working on classifying/labling food items using machine learning. 
