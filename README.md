@@ -18,7 +18,7 @@ Skillset:
 
 How to reach me: maxirasch@yahoo.de
 
-     [![Neues Textdokument (2) - Kopie](https://user-images.githubusercontent.com/95548513/155560153-4ce778e5-53ca-4a17-9874-7216c2ceb43b.svg)](https://www.linkedin.com/in/maximilian-rasch/) ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/95548513/174614541-afc1c6cc-2dad-4d12-aead-12f87b4d2dac.png)
+[![Neues Textdokument (2) - Kopie](https://user-images.githubusercontent.com/95548513/155560153-4ce778e5-53ca-4a17-9874-7216c2ceb43b.svg)](https://www.linkedin.com/in/maximilian-rasch/) ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/95548513/174614541-afc1c6cc-2dad-4d12-aead-12f87b4d2dac.png)
      
      
 
